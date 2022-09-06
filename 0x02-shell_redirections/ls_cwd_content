@@ -1,8 +1,26 @@
-total 72
-drwxr-xr-x 2 root root 4096 Sep  5 04:55 .
+total 160
+drwxr-xr-x 2 root root 4096 Sep  5 18:28 .
 drwxr-xr-x 6 root root  125 Sep  4 22:02 ..
+-rwxr--r-- 1 root root   32 Sep  5 16:15 0-hello_world
+-rwxr--r-- 1 root root   48 Sep  5 06:36 10-no_more_js
+-rwxr--r-- 1 root root   47 Sep  5 06:34 10-no_more_js~
+-rwxr--r-- 1 root root   37 Sep  5 07:14 #11-directories#
+-rwxr--r-- 1 root root   45 Sep  5 17:54 11-directories
+-rwxr--r-- 1 root root   48 Sep  5 07:10 11-directories~
+-rwxr--r-- 1 root root   31 Sep  5 18:23 12-newest_files
+-rwxr--r-- 1 root root   27 Sep  5 18:14 13-unique
+-rwxr--r-- 1 root root   39 Sep  5 10:35 14-findthatword
+-rwxr--r-- 1 root root   38 Sep  5 10:48 15-countthatword
+-rwxr--r-- 1 root root   41 Sep  5 10:59 16-whatsnext
+-rwxr--r-- 1 root root   38 Sep  5 11:17 17-hidethisword
+-rwxr--r-- 1 root root   53 Sep  5 16:25 18-letteronly
+-rwxr--r-- 1 root root   28 Sep  5 16:30 19-AZ
 -rwxr--r-- 1 root root   28 Sep  4 22:23 1-confused_smiley
 -rwxr--r-- 1 root root   27 Sep  4 22:20 1-confused_smiley~
+-rwxr--r-- 1 root root   23 Sep  5 16:39 20-hiago
+-rwxr--r-- 1 root root   16 Sep  5 16:50 21-reverse
+-rwxr--r-- 1 root root   49 Sep  5 17:36 22-users_and_homes
+-rwxr--r-- 1 root root   45 Sep  5 17:31 22-users_and_homes~
 -rwxr--r-- 1 root root   28 Sep  4 22:38 2-hellofile
 -rwxr--r-- 1 root root   39 Sep  4 22:48 3-twofiles
 -rwxr--r-- 1 root root   40 Sep  4 22:46 3-twofiles~
@@ -13,9 +31,13 @@ drwxr-xr-x 6 root root  125 Sep  4 22:02 ..
 -rwxr--r-- 1 root root   34 Sep  5 00:15 6-third_line~
 -rwxr--r-- 1 root root   80 Sep  5 03:22 7-file
 -rwxr--r-- 1 root root   74 Sep  5 03:13 7-file~
--rwxr--r-- 1 root root   38 Sep  5 04:55 8-cwd_state
+-rwxr--r-- 1 root root   37 Sep  5 18:28 8-cwd_state
 -rwxr--r-- 1 root root   37 Sep  5 04:53 8-cwd_state~
+-rwxr--r-- 1 root root   35 Sep  5 06:02 9-duplicate_last_line
+-rwxr--r-- 1 root root   39 Sep  5 05:57 9-duplicate_last_line~
 -rw-r--r-- 1 root root   12 Sep  5 03:22 \\*\\\\'"Best\ School"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)
--rw-r--r-- 1 root root  800 Sep  5 00:03 iacta
+-rw-r--r-- 1 root root  857 Sep  5 06:03 iacta
 -rw-r--r-- 1 root root  813 Sep  4 23:49 iacta~
--rw-r--r-- 1 root root    0 Sep  5 04:55 ls_cwd_content
+-rw-r--r-- 1 root root  168 Sep  5 08:28 list
+-rw-r--r-- 1 root root  168 Sep  5 08:23 list~
+-rw-r--r-- 1 root root    0 Sep  5 18:30 ls_cwd_content
