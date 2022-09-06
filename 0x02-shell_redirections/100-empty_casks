@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindpth 1 -type f,d -empty | dir -t1
+find . -empty -printf "%f\n"
