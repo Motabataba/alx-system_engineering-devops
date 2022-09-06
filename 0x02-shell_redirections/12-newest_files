@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -t | head -10
+dir -t1 | head -10
