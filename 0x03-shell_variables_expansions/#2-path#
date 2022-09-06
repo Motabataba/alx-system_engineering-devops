@@ -1,0 +1,12 @@
+#!/bin/bash
+export PATH=$PATH:/actioncase q in
+RET)
+    
+    ;;
+q)
+    
+    ;;
+exit)
+    
+    ;;
+
